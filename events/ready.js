@@ -20,9 +20,9 @@ client.user.setPresence({
         status: 'dnd'
     })
 var oyun = [
-        "//yardım",
-        "Kralbot Sürümü 1.0.0.0 Olarak Güncellenmiştir!",
-        "Şu an 4K adet Kanala 2K sunucuya 5K kullanıcıya hizmet veriliyor"             
+        "//yardım (Bakımda) //davet ",
+        "Kralbot Sürümü 1.0.1.0 Olarak Güncellenmiştir! (Müzik Botundan Dolayı Güncelleme Gelmiştir)",
+        "Müzik Botumuz Hazırlanmıştır!!!"             
     ];
 
     setInterval(function() {
