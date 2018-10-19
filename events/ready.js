@@ -14,7 +14,7 @@ module.exports = client => {
 client.user.setUsername(" Kralbot ");
 client.user.setPresence({
         game: {
-            name: `Patates izliyor`,
+            name: `Patates`,
             type: 'WATCHING'
         },
         status: 'dnd'
