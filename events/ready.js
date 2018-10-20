@@ -20,8 +20,8 @@ client.user.setPresence({
         status: 'dnd'
     })
 var oyun = [
-        "k?yardım (Bakımda) k?davet ",
-        "Kralbot Sürümü 1.0.1.0 Olarak Güncellenmiştir! (Müzik Botundan Dolayı Güncelleme Gelmiştir)",
+        "//yardım (Bakımda) //davet ",
+        "Kralbot Sürümü 1.0.1.0 Olarak Güncellenmiştir! https://kralbotc.wordpress.com/",
         "Müzik Botumuz Hazırlanmıştır!!!"             
     ];
 
