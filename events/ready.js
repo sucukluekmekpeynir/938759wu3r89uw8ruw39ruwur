@@ -29,6 +29,6 @@ var oyun = [
 
         var random = Math.floor(Math.random()*(oyun.length-0+1)+0);
 
-        client.user.setGame(oyun[random], "https://www.twitch.tv/SuloTR%22");
+        client.user.setGame(oyun[random], "https://www.twitch.tv/starsulo1616");
         }, 2 * 2500);
 }
