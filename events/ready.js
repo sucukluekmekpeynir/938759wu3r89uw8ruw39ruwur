@@ -21,7 +21,7 @@ client.user.setPresence({
     })
 var oyun = [
         "//yardım (Bakımda) //davet ",
-        "Kralbot Sürümü 1.0.1.0 Olarak Güncellenmiştir! https://kralbotc.wordpress.com/",
+        "Kralbot Sürümü 1.0.1.0 Olarak Güncellenmiştir! https://kralbotdiscord.wordpress.com/",
         "Müzik Botumuz Hazırlanmıştır!!!"             
     ];
 
